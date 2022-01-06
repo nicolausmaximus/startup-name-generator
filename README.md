@@ -1,16 +1,17 @@
-# hello_world
+# Startup_name generator
 
-A new Flutter project.
+A flutter app which can be used to generate and suggest names for your startup. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+It will generate a list of names for your startup.</br>You can add them to your favourites by clicking the heart icon beside the name.</br>
+Then using the saved suggestions tab we can view those names</br>
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/63350417/148346407-a8c392ca-dc71-4da0-a52d-b5d2473c4a04.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/63350417/148346432-2fc29b57-8869-4552-a21b-05ee7de3136c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/63350417/148346478-e2b3f791-60e9-435a-a29f-7e9cc34189cf.png)
+
+![image](https://user-images.githubusercontent.com/63350417/148346498-c8e2328e-bdd7-45f9-97a9-042f47b81d90.png)
+
